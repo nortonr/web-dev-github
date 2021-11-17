@@ -2,4 +2,8 @@ This is my new commit commit fuck this shit. line for a conflict test commit.
 
 and there is commit commit two.
 
+<<<<<<< HEAD
 this is another commit number 3.
+=======
+This is a newwwwww commit again testing.
+>>>>>>> featureA
