@@ -1,4 +1,4 @@
-This is my commit.
+This is my new commit line for a conflict test commit.
 
 and there is commit commit two.
 
